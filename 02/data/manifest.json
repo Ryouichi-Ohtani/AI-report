@@ -1,0 +1,10 @@
+{
+  "version": "v2",
+  "items": 44,
+  "sha256": "77ed3b70d4e76991fc22e9afd668a277bb0612ef93cc99be3fb02aa5622e79f5",
+  "created": "2026-11-17",
+  "option_seed": 240201,
+  "order_seed": 240202,
+  "design": "opaque IDs; alphabetical choices; shuffled order; actual x believed knowledge 2x2",
+  "note": "No human comparison; authored by same model family as respondents. V1 invalidated and archived."
+}

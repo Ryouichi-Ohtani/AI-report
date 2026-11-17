@@ -1,0 +1,52 @@
+{
+  "timestamp_local": "2026-11-17T12:12:16+0900",
+  "python": "3.9.6",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "processor": "arm",
+  "population": 32,
+  "generations": 60,
+  "budget": 30000,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "methods": [
+    "darwin",
+    "baldwin",
+    "lamarck"
+  ],
+  "timer_scope": "Starts immediately before initial population scoring, after the common random-walk initialization; includes all scoring, local search, variation, selection and logging in the run.",
+  "notes": "Exact threshold best-so-far snapshots; complete local descent continues beyond cutoff for the separate generation experiment. CPU times are sequential per-run wall times on a shared host.",
+  "sequences": [
+    {
+      "name": "toy10",
+      "expression": "H2P2H2P2H2",
+      "reference_energy": null,
+      "kind": "author-created easy control"
+    },
+    {
+      "name": "toy20",
+      "expression": "(H2P2)4H4",
+      "reference_energy": null,
+      "kind": "author-created longer control"
+    },
+    {
+      "name": "s48_02",
+      "expression": "H4PH2PH5P2HP2H2P2HP6HP2HP3HP2H2P2H3PH",
+      "reference_energy": -34
+    },
+    {
+      "name": "s48_03",
+      "expression": "PHPH2PH6P2HPHP2HPH2(PH)2P3H(P2H2)2P2HPHP2HP",
+      "reference_energy": -34
+    },
+    {
+      "name": "s48_04",
+      "expression": "PHPH2P2HPH3P2H2PH2P3H5P2HPH2(PH)2P4HP2(HP)2",
+      "reference_energy": -33
+    }
+  ]
+}

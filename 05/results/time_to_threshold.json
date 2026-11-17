@@ -1,0 +1,136 @@
+{
+  "sequence": "s48_02",
+  "threshold": -20,
+  "horizon_generations": 60,
+  "note": "Supplementary post-hoc target; nonhits are censored, medians condition on success.",
+  "rows": [
+    {
+      "method": "darwin",
+      "successes": 3,
+      "total": 5,
+      "median_seconds_given_success": 0.20460616699999434,
+      "median_generation_given_success": 51,
+      "trials": [
+        {
+          "seed": 0,
+          "reached": false,
+          "censored_generation": 60
+        },
+        {
+          "seed": 1,
+          "reached": false,
+          "censored_generation": 60
+        },
+        {
+          "seed": 2,
+          "reached": true,
+          "calls": 1538,
+          "seconds": 0.20460616699999434,
+          "generation_end": 51
+        },
+        {
+          "seed": 3,
+          "reached": true,
+          "calls": 1742,
+          "seconds": 0.23965762499999954,
+          "generation_end": 57
+        },
+        {
+          "seed": 4,
+          "reached": true,
+          "calls": 727,
+          "seconds": 0.0932167499999963,
+          "generation_end": 24
+        }
+      ]
+    },
+    {
+      "method": "baldwin",
+      "successes": 5,
+      "total": 5,
+      "median_seconds_given_success": 0.5908604580000016,
+      "median_generation_given_success": 15,
+      "trials": [
+        {
+          "seed": 0,
+          "reached": true,
+          "calls": 148167,
+          "seconds": 0.815435291,
+          "generation_end": 22
+        },
+        {
+          "seed": 1,
+          "reached": true,
+          "calls": 51396,
+          "seconds": 0.29900916700000124,
+          "generation_end": 8
+        },
+        {
+          "seed": 2,
+          "reached": true,
+          "calls": 208866,
+          "seconds": 1.2327851249999995,
+          "generation_end": 30
+        },
+        {
+          "seed": 3,
+          "reached": true,
+          "calls": 99120,
+          "seconds": 0.5908604580000016,
+          "generation_end": 15
+        },
+        {
+          "seed": 4,
+          "reached": true,
+          "calls": 61102,
+          "seconds": 0.40543387499999994,
+          "generation_end": 8
+        }
+      ]
+    },
+    {
+      "method": "lamarck",
+      "successes": 5,
+      "total": 5,
+      "median_seconds_given_success": 0.24326195900000158,
+      "median_generation_given_success": 13,
+      "trials": [
+        {
+          "seed": 0,
+          "reached": true,
+          "calls": 50403,
+          "seconds": 0.3647839590000004,
+          "generation_end": 22
+        },
+        {
+          "seed": 1,
+          "reached": true,
+          "calls": 35307,
+          "seconds": 0.2603432080000019,
+          "generation_end": 15
+        },
+        {
+          "seed": 2,
+          "reached": true,
+          "calls": 32348,
+          "seconds": 0.24326195900000158,
+          "generation_end": 13
+        },
+        {
+          "seed": 3,
+          "reached": true,
+          "calls": 12847,
+          "seconds": 0.08350170800000001,
+          "generation_end": 4
+        },
+        {
+          "seed": 4,
+          "reached": true,
+          "calls": 18330,
+          "seconds": 0.12103766700000307,
+          "generation_end": 7
+        }
+      ]
+    }
+  ]
+}

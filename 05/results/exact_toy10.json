@@ -1,0 +1,60 @@
+{
+  "sequence": "HHPPHHPPHH",
+  "optimal_energy": -4,
+  "complete_walks_first_bond_fixed": 308981,
+  "expanded_partial_walks": 390769,
+  "fold": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      -1,
+      1,
+      0
+    ],
+    [
+      -1,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      0
+    ]
+  ],
+  "seconds": 0.606965792,
+  "proof_scope": "All self-avoiding cubic-lattice walks of length 10, first bond fixed to +x by rotational symmetry."
+}

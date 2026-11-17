@@ -1,0 +1,53 @@
+\documentclass[a4paper,10pt,twocolumn]{article}
+\usepackage[margin=18mm,top=19mm,bottom=19mm]{geometry}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Menlo}
+\setCJKmainfont{Hiragino Mincho ProN}
+\setCJKsansfont{Hiragino Kaku Gothic ProN}
+\setCJKmonofont{Hiragino Kaku Gothic ProN}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{report-support}
+\DeclareMathSizes{8}{9}{7}{5}
+\DeclareMathSizes{9}{9}{7}{5}
+\DeclareMathSizes{12}{10}{7}{5}
+\DeclareMathSizes{14.4}{10}{7}{5}
+\DeclareMathSizes{17.28}{10}{7}{5}
+\IfFileExists{author-local.tex}{\input{author-local.tex}}{\newcommand{\reportauthor}{Ryouichi Ohtani}\newcommand{\studentnumber}{}}
+\input{repository.tex}
+\setlength{\columnsep}{8mm}
+\setlength{\columnseprule}{0.3pt}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{2pt}
+\setlength{\emergencystretch}{2em}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@dblfptop}{0pt}
+\makeatother
+\renewcommand{\figurename}{図}
+\renewcommand{\tablename}{表}
+\renewcommand{\refname}{参考文献}
+\captionsetup{font=small,labelfont=bf}
+\newcommand{\repolink}[1]{\par\smallskip\noindent\textbf{実装・実験データ\ifrepositorypublished\else （公開予定・未公開）\fi：}\par\url{\repositoryurl/tree/main/#1}\par}
+\raggedbottom
+\newcommand{\pending}[1]{\par\noindent\fbox{\parbox{0.94\linewidth}{\textbf{追記が必要：}#1}}\par}
+\begin{document}
+\twocolumn[\begin{center}
+{\Large\bfseries 人工知能 レポート：第1問〜第6問}\par\vspace{6pt}
+\reportauthor\quad 学籍番号：\studentnumber
+\end{center}\vspace{1mm}\hrule\vspace{4mm}]
+\input{01/section.tex}\clearpage
+\input{02/section.tex}\clearpage
+\input{03/section.tex}\clearpage
+\input{04/section.tex}\clearpage
+\input{05/section.tex}\clearpage
+\input{06/section.tex}\clearpage
+\section*{講義へのコメント}
+異なる問題でも、表現方法と評価指標によって探索結果の意味が変わることを確かめられた。
+探索の展開数やGAの世代数に加え、適合度評価回数と計算時間を併記する比較が特に有益であった。
+授業で使用するベンチマークに機械可読な配列・正解検証器が添付されると、入力の転記ミスを避け、発展的な実験に時間を使えると考える。
+\input{references.tex}
+\end{document}

@@ -1,0 +1,751 @@
+{
+  "seed": 4,
+  "evaluations": 12000,
+  "objective": "mae",
+  "variable": false,
+  "initial_count": 8,
+  "count": 8,
+  "loss": 0.08573261648416519,
+  "penalty": 0.0,
+  "population": 12,
+  "guided": true,
+  "seconds": 1.1124634999999898,
+  "attempted_crossovers": 1794,
+  "successful_crossovers": 207,
+  "background": [
+    139.0,
+    144.0,
+    127.0
+  ],
+  "genome": [
+    [
+      1.4551710316308948,
+      2.8560506222910513,
+      30.425782295854948,
+      63.0,
+      0.0,
+      63.0,
+      78.0,
+      176.0,
+      143.0
+    ],
+    [
+      34.470643558181955,
+      2.4229421113233744,
+      55.83339628309554,
+      20.54675864810566,
+      37.37184812603983,
+      25.671815337664615,
+      238.58540925775236,
+      231.3149650019979,
+      182.90005340619587
+    ],
+    [
+      0.8892660811854636,
+      0.0,
+      46.80757595707936,
+      0.0,
+      26.363474962307716,
+      29.22112793485222,
+      120.0,
+      94.0,
+      159.0
+    ],
+    [
+      30.981982348533613,
+      0.33997898109979713,
+      63.0,
+      0.08012732671639558,
+      63.0,
+      34.57429527300528,
+      201.0,
+      97.0,
+      112.0
+    ],
+    [
+      29.193776268647774,
+      37.22183929778064,
+      62.66503930798504,
+      25.921390075720957,
+      63.0,
+      63.0,
+      200.0,
+      159.0,
+      74.0
+    ],
+    [
+      34.82543440405846,
+      35.71113623007353,
+      62.19588558936281,
+      62.538582187958646,
+      29.864726102846628,
+      63.0,
+      171.0,
+      186.0,
+      91.0
+    ],
+    [
+      14.844574794991736,
+      41.81829140044543,
+      37.65884988547911,
+      33.66010515350513,
+      27.834308627873458,
+      62.89924801792498,
+      126.0,
+      173.0,
+      107.0
+    ],
+    [
+      0.16371233088303566,
+      0.48075065741362555,
+      27.176250327772213,
+      21.873935859127698,
+      0.32073543155556444,
+      37.970525482376296,
+      76.0,
+      115.0,
+      184.0
+    ]
+  ],
+  "trace": [
+    {
+      "evaluations": 12,
+      "loss": 0.09512133151292801,
+      "triangles": 8
+    },
+    {
+      "evaluations": 100,
+      "loss": 0.09434711188077927,
+      "triangles": 8
+    },
+    {
+      "evaluations": 200,
+      "loss": 0.09358979016542435,
+      "triangles": 8
+    },
+    {
+      "evaluations": 300,
+      "loss": 0.09308651089668274,
+      "triangles": 8
+    },
+    {
+      "evaluations": 400,
+      "loss": 0.09269971400499344,
+      "triangles": 8
+    },
+    {
+      "evaluations": 500,
+      "loss": 0.09257269650697708,
+      "triangles": 8
+    },
+    {
+      "evaluations": 600,
+      "loss": 0.09243515133857727,
+      "triangles": 8
+    },
+    {
+      "evaluations": 700,
+      "loss": 0.09233430027961731,
+      "triangles": 8
+    },
+    {
+      "evaluations": 800,
+      "loss": 0.09232408553361893,
+      "triangles": 8
+    },
+    {
+      "evaluations": 900,
+      "loss": 0.09221718460321426,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1000,
+      "loss": 0.09201899915933609,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1100,
+      "loss": 0.0918843224644661,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1200,
+      "loss": 0.0918843224644661,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1300,
+      "loss": 0.09166251868009567,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1400,
+      "loss": 0.09150933474302292,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1500,
+      "loss": 0.09145987033843994,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1600,
+      "loss": 0.09139060974121094,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1700,
+      "loss": 0.091349758207798,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1800,
+      "loss": 0.09122306108474731,
+      "triangles": 8
+    },
+    {
+      "evaluations": 1900,
+      "loss": 0.09100126475095749,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2000,
+      "loss": 0.09093967080116272,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2100,
+      "loss": 0.09087232500314713,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2200,
+      "loss": 0.09076127409934998,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2300,
+      "loss": 0.09076127409934998,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2400,
+      "loss": 0.09075041860342026,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2500,
+      "loss": 0.0906776562333107,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2600,
+      "loss": 0.09046351909637451,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2700,
+      "loss": 0.09022990614175797,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2800,
+      "loss": 0.09021458774805069,
+      "triangles": 8
+    },
+    {
+      "evaluations": 2900,
+      "loss": 0.09019064903259277,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3000,
+      "loss": 0.09007225185632706,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3100,
+      "loss": 0.09005086869001389,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3200,
+      "loss": 0.08994778990745544,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3300,
+      "loss": 0.08986290544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3400,
+      "loss": 0.08984502404928207,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3500,
+      "loss": 0.08982811123132706,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3600,
+      "loss": 0.08964844793081284,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3700,
+      "loss": 0.0894036591053009,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3800,
+      "loss": 0.0894036591053009,
+      "triangles": 8
+    },
+    {
+      "evaluations": 3900,
+      "loss": 0.08932259678840637,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4000,
+      "loss": 0.08931014686822891,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4100,
+      "loss": 0.08930951356887817,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4200,
+      "loss": 0.08930248767137527,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4300,
+      "loss": 0.08929578214883804,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4400,
+      "loss": 0.08929228037595749,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4500,
+      "loss": 0.08884898573160172,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4600,
+      "loss": 0.08883718401193619,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4700,
+      "loss": 0.0880042314529419,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4800,
+      "loss": 0.08757978677749634,
+      "triangles": 8
+    },
+    {
+      "evaluations": 4900,
+      "loss": 0.08751340955495834,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5000,
+      "loss": 0.08744287490844727,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5100,
+      "loss": 0.08720064908266068,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5200,
+      "loss": 0.08709916472434998,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5300,
+      "loss": 0.08709916472434998,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5400,
+      "loss": 0.0870567187666893,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5500,
+      "loss": 0.0870506539940834,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5600,
+      "loss": 0.0870506539940834,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5700,
+      "loss": 0.08704298734664917,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5800,
+      "loss": 0.0869622528553009,
+      "triangles": 8
+    },
+    {
+      "evaluations": 5900,
+      "loss": 0.08693256974220276,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6000,
+      "loss": 0.08693256974220276,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6100,
+      "loss": 0.08691661804914474,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6200,
+      "loss": 0.08682820945978165,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6300,
+      "loss": 0.08660576492547989,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6400,
+      "loss": 0.08644014596939087,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6500,
+      "loss": 0.08642833679914474,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6600,
+      "loss": 0.08626270294189453,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6700,
+      "loss": 0.08621323853731155,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6800,
+      "loss": 0.08611781150102615,
+      "triangles": 8
+    },
+    {
+      "evaluations": 6900,
+      "loss": 0.08611589670181274,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7000,
+      "loss": 0.08606930822134018,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7100,
+      "loss": 0.08604025840759277,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7200,
+      "loss": 0.08604025840759277,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7300,
+      "loss": 0.08604025840759277,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7400,
+      "loss": 0.08602046966552734,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7500,
+      "loss": 0.08600931614637375,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7600,
+      "loss": 0.08599526435136795,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7700,
+      "loss": 0.0859837755560875,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7800,
+      "loss": 0.08596239238977432,
+      "triangles": 8
+    },
+    {
+      "evaluations": 7900,
+      "loss": 0.08595982939004898,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8000,
+      "loss": 0.08595982939004898,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8100,
+      "loss": 0.08595887571573257,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8200,
+      "loss": 0.08595887571573257,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8300,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8400,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8500,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8600,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8700,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8800,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 8900,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9000,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9100,
+      "loss": 0.08595665544271469,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9200,
+      "loss": 0.08594707399606705,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9300,
+      "loss": 0.08594707399606705,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9400,
+      "loss": 0.08594707399606705,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9500,
+      "loss": 0.08594707399606705,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9600,
+      "loss": 0.08594707399606705,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9700,
+      "loss": 0.08591675758361816,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9800,
+      "loss": 0.08591612428426743,
+      "triangles": 8
+    },
+    {
+      "evaluations": 9900,
+      "loss": 0.08591612428426743,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10000,
+      "loss": 0.08591452240943909,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10100,
+      "loss": 0.08591452240943909,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10200,
+      "loss": 0.08591452240943909,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10300,
+      "loss": 0.08591452240943909,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10400,
+      "loss": 0.08591452240943909,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10500,
+      "loss": 0.08591388911008835,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10600,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10700,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10800,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 10900,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11000,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11100,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11200,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11300,
+      "loss": 0.08588708192110062,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11400,
+      "loss": 0.08577602356672287,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11500,
+      "loss": 0.08577378839254379,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11600,
+      "loss": 0.08577378839254379,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11700,
+      "loss": 0.08576357364654541,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11800,
+      "loss": 0.08573612570762634,
+      "triangles": 8
+    },
+    {
+      "evaluations": 11900,
+      "loss": 0.08573612570762634,
+      "triangles": 8
+    },
+    {
+      "evaluations": 12000,
+      "loss": 0.08573261648416519,
+      "triangles": 8
+    }
+  ],
+  "target": "gradient",
+  "noisy": true,
+  "config": "mae08",
+  "train_sha256": "feb4ef567518e2b880435772fd7b661ea66aba872f50771600446aeb6b28c3c6",
+  "train_metrics": {
+    "mae": 0.08573261648416519,
+    "mse": 0.011938231997191906,
+    "psnr": 19.23059985662031,
+    "edge_mae": 0.10055714845657349
+  },
+  "clean_metrics": {
+    "mae": 0.054026562720537186,
+    "mse": 0.00506144855171442,
+    "psnr": 22.957251732815497,
+    "edge_mae": 0.013493846170604229
+  },
+  "noisy_test_metrics": {
+    "mae": 0.08721277862787247,
+    "mse": 0.012193888425827026,
+    "psnr": 19.138577830937717,
+    "edge_mae": 0.10198153555393219
+  },
+  "related_metrics": {
+    "mae": 0.055916815996170044,
+    "mse": 0.005374152213335037,
+    "psnr": 22.696900371072957,
+    "edge_mae": 0.013510704040527344
+  },
+  "unrelated_metrics": {
+    "mae": 0.3011054992675781,
+    "mse": 0.12027154117822647,
+    "psnr": 9.198371238771516,
+    "edge_mae": 0.024542709812521935
+  }
+}

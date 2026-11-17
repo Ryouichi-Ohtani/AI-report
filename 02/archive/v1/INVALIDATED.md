@@ -1,0 +1,1 @@
+This is the archived v1 pilot. Its 36/36 scores are INVALIDATED as evidence of ToM performance: public family/group/variant IDs and preserved semantic option insertion order allow a text-free 36/36 shortcut. The final report and active scoring use v2 only. Archived files are retained for audit and are not combined with v2 observations.

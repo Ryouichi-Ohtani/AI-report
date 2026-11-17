@@ -1,0 +1,448 @@
+{
+  "version": "v2",
+  "stimulus_sha256": "77ed3b70d4e76991fc22e9afd668a277bb0612ef93cc99be3fb02aa5622e79f5",
+  "trials": {
+    "v2_trial1": {
+      "correct": 44,
+      "total": 44,
+      "families": {
+        "second_order": {
+          "correct": 16,
+          "total": 16
+        },
+        "faux_pas": {
+          "correct": 8,
+          "total": 8
+        },
+        "irony": {
+          "correct": 8,
+          "total": 8
+        },
+        "belief": {
+          "correct": 8,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 20,
+      "strict_pairs_total": 20,
+      "second_congruent": {
+        "correct": 8,
+        "total": 8
+      },
+      "second_incongruent": {
+        "correct": 8,
+        "total": 8
+      },
+      "correct_by_id": {
+        "b4d0b03797421430": true,
+        "b12a3b05def1414c": true,
+        "d0b9ab1d2b080ea3": true,
+        "6c96311ec96faf91": true,
+        "d80645ef0402f0b2": true,
+        "2662483e058be7d9": true,
+        "36823849f665b913": true,
+        "71bead5e681b44fd": true,
+        "c1728461917f9034": true,
+        "be2b3b0817554b9d": true,
+        "f135c2c3f87c416b": true,
+        "4e8470f9f27dbb28": true,
+        "237e72a793b9531b": true,
+        "16a9f4dededca80c": true,
+        "26fc5ff2ecddf38c": true,
+        "07b99d06f47d2275": true,
+        "24e056064674cddf": true,
+        "cfccce31e00044c7": true,
+        "4166da2fc572c564": true,
+        "b4fe07de941ee626": true,
+        "8edd8db6b0217773": true,
+        "8f0db33363ad06e3": true,
+        "f903889ddb6fa4f8": true,
+        "d2e955c2cd852852": true,
+        "b45d0044f06297b3": true,
+        "0051160625bdeacd": true,
+        "6773ea567273299b": true,
+        "94940dd9e15d81ea": true,
+        "3b9edc589a191041": true,
+        "f23e379cddfbaee0": true,
+        "2c4e7af20b6b7eb7": true,
+        "56f994cdc306ba86": true,
+        "9ec13bc6f64bde3d": true,
+        "f09678f29f9e6b21": true,
+        "beb20dc07cac4bf7": true,
+        "67a70103830a3e48": true,
+        "ce2b53de69f930be": true,
+        "162ad492b1919961": true,
+        "50d02a21f94d72e1": true,
+        "54b2283569e1e115": true,
+        "bfc0de92ebdaa08d": true,
+        "26d78443d93bfb07": true,
+        "65b695d7ae834556": true,
+        "cbc0b8e49df248c4": true
+      }
+    },
+    "v2_trial2": {
+      "correct": 44,
+      "total": 44,
+      "families": {
+        "second_order": {
+          "correct": 16,
+          "total": 16
+        },
+        "faux_pas": {
+          "correct": 8,
+          "total": 8
+        },
+        "irony": {
+          "correct": 8,
+          "total": 8
+        },
+        "belief": {
+          "correct": 8,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 20,
+      "strict_pairs_total": 20,
+      "second_congruent": {
+        "correct": 8,
+        "total": 8
+      },
+      "second_incongruent": {
+        "correct": 8,
+        "total": 8
+      },
+      "correct_by_id": {
+        "b4d0b03797421430": true,
+        "b12a3b05def1414c": true,
+        "d0b9ab1d2b080ea3": true,
+        "6c96311ec96faf91": true,
+        "d80645ef0402f0b2": true,
+        "2662483e058be7d9": true,
+        "36823849f665b913": true,
+        "71bead5e681b44fd": true,
+        "c1728461917f9034": true,
+        "be2b3b0817554b9d": true,
+        "f135c2c3f87c416b": true,
+        "4e8470f9f27dbb28": true,
+        "237e72a793b9531b": true,
+        "16a9f4dededca80c": true,
+        "26fc5ff2ecddf38c": true,
+        "07b99d06f47d2275": true,
+        "24e056064674cddf": true,
+        "cfccce31e00044c7": true,
+        "4166da2fc572c564": true,
+        "b4fe07de941ee626": true,
+        "8edd8db6b0217773": true,
+        "8f0db33363ad06e3": true,
+        "f903889ddb6fa4f8": true,
+        "d2e955c2cd852852": true,
+        "b45d0044f06297b3": true,
+        "0051160625bdeacd": true,
+        "6773ea567273299b": true,
+        "94940dd9e15d81ea": true,
+        "3b9edc589a191041": true,
+        "f23e379cddfbaee0": true,
+        "2c4e7af20b6b7eb7": true,
+        "56f994cdc306ba86": true,
+        "9ec13bc6f64bde3d": true,
+        "f09678f29f9e6b21": true,
+        "beb20dc07cac4bf7": true,
+        "67a70103830a3e48": true,
+        "ce2b53de69f930be": true,
+        "162ad492b1919961": true,
+        "50d02a21f94d72e1": true,
+        "54b2283569e1e115": true,
+        "bfc0de92ebdaa08d": true,
+        "26d78443d93bfb07": true,
+        "65b695d7ae834556": true,
+        "cbc0b8e49df248c4": true
+      }
+    }
+  },
+  "baselines": {
+    "always_A": {
+      "correct": 14,
+      "total": 44,
+      "families": {
+        "second_order": {
+          "correct": 3,
+          "total": 16
+        },
+        "faux_pas": {
+          "correct": 3,
+          "total": 8
+        },
+        "irony": {
+          "correct": 5,
+          "total": 8
+        },
+        "belief": {
+          "correct": 2,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 1,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 3,
+      "strict_pairs_total": 20,
+      "second_congruent": {
+        "correct": 1,
+        "total": 8
+      },
+      "second_incongruent": {
+        "correct": 2,
+        "total": 8
+      },
+      "correct_by_id": {
+        "b4d0b03797421430": true,
+        "b12a3b05def1414c": true,
+        "d0b9ab1d2b080ea3": true,
+        "6c96311ec96faf91": false,
+        "d80645ef0402f0b2": false,
+        "2662483e058be7d9": false,
+        "36823849f665b913": false,
+        "71bead5e681b44fd": true,
+        "c1728461917f9034": false,
+        "be2b3b0817554b9d": true,
+        "f135c2c3f87c416b": false,
+        "4e8470f9f27dbb28": false,
+        "237e72a793b9531b": false,
+        "16a9f4dededca80c": false,
+        "26fc5ff2ecddf38c": false,
+        "07b99d06f47d2275": true,
+        "24e056064674cddf": false,
+        "cfccce31e00044c7": false,
+        "4166da2fc572c564": false,
+        "b4fe07de941ee626": false,
+        "8edd8db6b0217773": false,
+        "8f0db33363ad06e3": false,
+        "f903889ddb6fa4f8": false,
+        "d2e955c2cd852852": false,
+        "b45d0044f06297b3": false,
+        "0051160625bdeacd": false,
+        "6773ea567273299b": false,
+        "94940dd9e15d81ea": true,
+        "3b9edc589a191041": true,
+        "f23e379cddfbaee0": false,
+        "2c4e7af20b6b7eb7": true,
+        "56f994cdc306ba86": false,
+        "9ec13bc6f64bde3d": false,
+        "f09678f29f9e6b21": false,
+        "beb20dc07cac4bf7": true,
+        "67a70103830a3e48": true,
+        "ce2b53de69f930be": true,
+        "162ad492b1919961": false,
+        "50d02a21f94d72e1": false,
+        "54b2283569e1e115": false,
+        "bfc0de92ebdaa08d": false,
+        "26d78443d93bfb07": true,
+        "65b695d7ae834556": true,
+        "cbc0b8e49df248c4": false
+      }
+    },
+    "always_B": {
+      "correct": 14,
+      "total": 44,
+      "families": {
+        "second_order": {
+          "correct": 8,
+          "total": 16
+        },
+        "faux_pas": {
+          "correct": 1,
+          "total": 8
+        },
+        "irony": {
+          "correct": 1,
+          "total": 8
+        },
+        "belief": {
+          "correct": 2,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 2,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 2,
+      "strict_pairs_total": 20,
+      "second_congruent": {
+        "correct": 4,
+        "total": 8
+      },
+      "second_incongruent": {
+        "correct": 4,
+        "total": 8
+      },
+      "correct_by_id": {
+        "b4d0b03797421430": false,
+        "b12a3b05def1414c": false,
+        "d0b9ab1d2b080ea3": false,
+        "6c96311ec96faf91": true,
+        "d80645ef0402f0b2": false,
+        "2662483e058be7d9": false,
+        "36823849f665b913": false,
+        "71bead5e681b44fd": false,
+        "c1728461917f9034": true,
+        "be2b3b0817554b9d": false,
+        "f135c2c3f87c416b": true,
+        "4e8470f9f27dbb28": false,
+        "237e72a793b9531b": false,
+        "16a9f4dededca80c": false,
+        "26fc5ff2ecddf38c": true,
+        "07b99d06f47d2275": false,
+        "24e056064674cddf": false,
+        "cfccce31e00044c7": true,
+        "4166da2fc572c564": false,
+        "b4fe07de941ee626": true,
+        "8edd8db6b0217773": false,
+        "8f0db33363ad06e3": true,
+        "f903889ddb6fa4f8": true,
+        "d2e955c2cd852852": true,
+        "b45d0044f06297b3": false,
+        "0051160625bdeacd": false,
+        "6773ea567273299b": true,
+        "94940dd9e15d81ea": false,
+        "3b9edc589a191041": false,
+        "f23e379cddfbaee0": true,
+        "2c4e7af20b6b7eb7": false,
+        "56f994cdc306ba86": true,
+        "9ec13bc6f64bde3d": true,
+        "f09678f29f9e6b21": true,
+        "beb20dc07cac4bf7": false,
+        "67a70103830a3e48": false,
+        "ce2b53de69f930be": false,
+        "162ad492b1919961": false,
+        "50d02a21f94d72e1": false,
+        "54b2283569e1e115": false,
+        "bfc0de92ebdaa08d": false,
+        "26d78443d93bfb07": false,
+        "65b695d7ae834556": false,
+        "cbc0b8e49df248c4": false
+      }
+    },
+    "always_C": {
+      "correct": 16,
+      "total": 44,
+      "families": {
+        "second_order": {
+          "correct": 5,
+          "total": 16
+        },
+        "faux_pas": {
+          "correct": 4,
+          "total": 8
+        },
+        "irony": {
+          "correct": 2,
+          "total": 8
+        },
+        "belief": {
+          "correct": 4,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 1,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 1,
+      "strict_pairs_total": 20,
+      "second_congruent": {
+        "correct": 3,
+        "total": 8
+      },
+      "second_incongruent": {
+        "correct": 2,
+        "total": 8
+      },
+      "correct_by_id": {
+        "b4d0b03797421430": false,
+        "b12a3b05def1414c": false,
+        "d0b9ab1d2b080ea3": false,
+        "6c96311ec96faf91": false,
+        "d80645ef0402f0b2": true,
+        "2662483e058be7d9": true,
+        "36823849f665b913": true,
+        "71bead5e681b44fd": false,
+        "c1728461917f9034": false,
+        "be2b3b0817554b9d": false,
+        "f135c2c3f87c416b": false,
+        "4e8470f9f27dbb28": true,
+        "237e72a793b9531b": true,
+        "16a9f4dededca80c": true,
+        "26fc5ff2ecddf38c": false,
+        "07b99d06f47d2275": false,
+        "24e056064674cddf": true,
+        "cfccce31e00044c7": false,
+        "4166da2fc572c564": true,
+        "b4fe07de941ee626": false,
+        "8edd8db6b0217773": true,
+        "8f0db33363ad06e3": false,
+        "f903889ddb6fa4f8": false,
+        "d2e955c2cd852852": false,
+        "b45d0044f06297b3": true,
+        "0051160625bdeacd": true,
+        "6773ea567273299b": false,
+        "94940dd9e15d81ea": false,
+        "3b9edc589a191041": false,
+        "f23e379cddfbaee0": false,
+        "2c4e7af20b6b7eb7": false,
+        "56f994cdc306ba86": false,
+        "9ec13bc6f64bde3d": false,
+        "f09678f29f9e6b21": false,
+        "beb20dc07cac4bf7": false,
+        "67a70103830a3e48": false,
+        "ce2b53de69f930be": false,
+        "162ad492b1919961": true,
+        "50d02a21f94d72e1": true,
+        "54b2283569e1e115": true,
+        "bfc0de92ebdaa08d": true,
+        "26d78443d93bfb07": false,
+        "65b695d7ae834556": false,
+        "cbc0b8e49df248c4": true
+      }
+    }
+  },
+  "reality_baseline": {
+    "correct": 12,
+    "total": 24
+  },
+  "actual_B_knowledge_baseline": {
+    "correct": 8,
+    "total": 16
+  },
+  "between_context_agreement": 44,
+  "agreement_total": 44,
+  "model_metadata": {
+    "v2_trial1": {
+      "model": "gpt-6.1-sol",
+      "date": "2026-11-17",
+      "version": "v2",
+      "context": "fresh subagent fork_turns=none; sanitized prompts only; 44-item batch",
+      "temperature": "not exposed",
+      "stimulus_sha256": "77ed3b70d4e76991fc22e9afd668a277bb0612ef93cc99be3fb02aa5622e79f5"
+    },
+    "v2_trial2": {
+      "model": "gpt-6.1-sol",
+      "date": "2026-11-17",
+      "version": "v2",
+      "context": "fresh subagent fork_turns=none; sanitized prompts only; 44-item batch",
+      "temperature": "not exposed",
+      "stimulus_sha256": "77ed3b70d4e76991fc22e9afd668a277bb0612ef93cc99be3fb02aa5622e79f5"
+    }
+  },
+  "sampling_note": "44 authored items in each of two fresh contexts; items share one batch, not independent subjects.",
+  "v1_status": "Archived and invalidated due to metadata/option-order shortcut; no v1 scores pooled here."
+}

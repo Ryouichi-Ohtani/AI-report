@@ -1,0 +1,1041 @@
+[
+  {
+    "sequence": "toy10",
+    "n": 10,
+    "method": "darwin",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "energy_at_generation": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "seconds_at_budget": {
+      "mean": 1.0451444168,
+      "median": 1.039641375,
+      "min": 1.0344439589999999,
+      "max": 1.063228959,
+      "sd": 0.012031770454722701
+    },
+    "seconds_at_generation": {
+      "mean": 0.06289160000000005,
+      "median": 0.06272870799999986,
+      "min": 0.061212708999999865,
+      "max": 0.06438662500000003,
+      "sd": 0.0013390894081740533
+    },
+    "calls_at_generation": {
+      "mean": 1832.0,
+      "median": 1832.0,
+      "min": 1832.0,
+      "max": 1832.0,
+      "sd": 0.0
+    },
+    "diversity_at_generation": {
+      "mean": 0.325,
+      "median": 0.3125,
+      "min": 0.3125,
+      "max": 0.34375,
+      "sd": 0.017116329922036443
+    },
+    "target": -3,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "first_target_calls_successes": [
+      21,
+      13,
+      159,
+      138,
+      5
+    ],
+    "first_target_seconds_successes": [
+      0.00024824999999999847,
+      0.00012604199999999288,
+      0.004907332999999792,
+      0.004361583999999752,
+      5.670899999987711e-05
+    ]
+  },
+  {
+    "sequence": "toy10",
+    "n": 10,
+    "method": "baldwin",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "energy_at_generation": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "seconds_at_budget": {
+      "mean": 0.1583802752000001,
+      "median": 0.15723345800000033,
+      "min": 0.1561148750000001,
+      "max": 0.16329949999999993,
+      "sd": 0.002960977271588222
+    },
+    "seconds_at_generation": {
+      "mean": 0.2861940918000002,
+      "median": 0.28791933300000006,
+      "min": 0.27355108399999994,
+      "max": 0.29914883400000036,
+      "sd": 0.010081731535839236
+    },
+    "calls_at_generation": {
+      "mean": 54331.6,
+      "median": 54904.0,
+      "min": 52086.0,
+      "max": 55984.0,
+      "sd": 1540.4638262549367
+    },
+    "diversity_at_generation": {
+      "mean": 0.2875,
+      "median": 0.28125,
+      "min": 0.15625,
+      "max": 0.375,
+      "sd": 0.0921742575234539
+    },
+    "target": -3,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "first_target_calls_successes": [
+      157,
+      38,
+      59,
+      49,
+      58
+    ],
+    "first_target_seconds_successes": [
+      0.0007288749999998512,
+      0.00017741600000009683,
+      0.0002803749999999994,
+      0.00023091700000055226,
+      0.0002918340000004349
+    ]
+  },
+  {
+    "sequence": "toy10",
+    "n": 10,
+    "method": "lamarck",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "energy_at_generation": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "seconds_at_budget": {
+      "mean": 0.16922822500000004,
+      "median": 0.16936683299999977,
+      "min": 0.16693920899999992,
+      "max": 0.1703506250000002,
+      "sd": 0.0013718345123259923
+    },
+    "seconds_at_generation": {
+      "mean": 0.2416298668,
+      "median": 0.2410965420000002,
+      "min": 0.23396141699999995,
+      "max": 0.24819749999999985,
+      "sd": 0.005535384637055397
+    },
+    "calls_at_generation": {
+      "mean": 42753.2,
+      "median": 42604.0,
+      "min": 42044.0,
+      "max": 43680.0,
+      "sd": 658.7812231689668
+    },
+    "diversity_at_generation": {
+      "mean": 0.425,
+      "median": 0.40625,
+      "min": 0.375,
+      "max": 0.5,
+      "sd": 0.04739297152532219
+    },
+    "target": -3,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -4.0,
+      "median": -4.0,
+      "min": -4.0,
+      "max": -4.0,
+      "sd": 0.0
+    },
+    "first_target_calls_successes": [
+      157,
+      38,
+      59,
+      49,
+      58
+    ],
+    "first_target_seconds_successes": [
+      0.0007230000000000292,
+      0.0001667499999999933,
+      0.0002753329999993781,
+      0.0002202499999999219,
+      0.0002862080000003431
+    ]
+  },
+  {
+    "sequence": "toy20",
+    "n": 20,
+    "method": "darwin",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -11.4,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -11.0,
+      "sd": 0.8944271909999159
+    },
+    "energy_at_generation": {
+      "mean": -11.0,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -9.0,
+      "sd": 1.4142135623730951
+    },
+    "seconds_at_budget": {
+      "mean": 1.9753108915999995,
+      "median": 1.9783016249999967,
+      "min": 1.9362077080000004,
+      "max": 2.0022551250000014,
+      "sd": 0.02635338135666933
+    },
+    "seconds_at_generation": {
+      "mean": 0.1179361664,
+      "median": 0.11857504100000327,
+      "min": 0.1135079999999995,
+      "max": 0.12024195799999937,
+      "sd": 0.0026282230646335037
+    },
+    "calls_at_generation": {
+      "mean": 1832.0,
+      "median": 1832.0,
+      "min": 1832.0,
+      "max": 1832.0,
+      "sd": 0.0
+    },
+    "diversity_at_generation": {
+      "mean": 0.875,
+      "median": 0.875,
+      "min": 0.78125,
+      "max": 0.9375,
+      "sd": 0.05846339666834283
+    },
+    "target": -10,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -11.0,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -9.0,
+      "sd": 1.4142135623730951
+    },
+    "first_target_calls_successes": [
+      461,
+      1358,
+      2848,
+      258,
+      675
+    ],
+    "first_target_seconds_successes": [
+      0.02888104200000008,
+      0.08871883299999972,
+      0.1758407919999989,
+      0.016898249999997006,
+      0.042760583000003294
+    ]
+  },
+  {
+    "sequence": "toy20",
+    "n": 20,
+    "method": "baldwin",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -11.0,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -9.0,
+      "sd": 1.4142135623730951
+    },
+    "energy_at_generation": {
+      "mean": -11.8,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -11.0,
+      "sd": 1.0954451150103324
+    },
+    "seconds_at_budget": {
+      "mean": 0.1762459916000001,
+      "median": 0.17647616700000057,
+      "min": 0.1671293330000001,
+      "max": 0.18443287499999883,
+      "sd": 0.006159296815301342
+    },
+    "seconds_at_generation": {
+      "mean": 0.7753995663999997,
+      "median": 0.7927206250000012,
+      "min": 0.6495895409999992,
+      "max": 0.8811433750000006,
+      "sd": 0.09864524952292442
+    },
+    "calls_at_generation": {
+      "mean": 130642.6,
+      "median": 132765.0,
+      "min": 102179.0,
+      "max": 157038.0,
+      "sd": 24106.288231496776
+    },
+    "diversity_at_generation": {
+      "mean": 0.59375,
+      "median": 0.625,
+      "min": 0.4375,
+      "max": 0.6875,
+      "sd": 0.09375
+    },
+    "target": -10,
+    "hit_count_at_budget": 4,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -10.2,
+      "median": -10.0,
+      "min": -13.0,
+      "max": -9.0,
+      "sd": 1.6431676725154984
+    },
+    "first_target_calls_successes": [
+      593,
+      15070,
+      1003,
+      23160
+    ],
+    "first_target_seconds_successes": [
+      0.0030652909999986377,
+      0.09304704199999847,
+      0.005812625000000793,
+      0.1351683339999994
+    ]
+  },
+  {
+    "sequence": "toy20",
+    "n": 20,
+    "method": "lamarck",
+    "seeds": 5,
+    "reference_energy": null,
+    "energy_at_budget": {
+      "mean": -11.8,
+      "median": -11.0,
+      "min": -13.0,
+      "max": -11.0,
+      "sd": 1.0954451150103324
+    },
+    "energy_at_generation": {
+      "mean": -12.2,
+      "median": -13.0,
+      "min": -13.0,
+      "max": -11.0,
+      "sd": 1.0954451150103321
+    },
+    "seconds_at_budget": {
+      "mean": 0.20082720020000017,
+      "median": 0.2008422920000008,
+      "min": 0.1967137500000007,
+      "max": 0.2037759999999995,
+      "sd": 0.002686659206409266
+    },
+    "seconds_at_generation": {
+      "mean": 0.47348601680000046,
+      "median": 0.47562779200000094,
+      "min": 0.4408347920000004,
+      "max": 0.4935459160000004,
+      "sd": 0.02029018739297222
+    },
+    "calls_at_generation": {
+      "mean": 68990.0,
+      "median": 69445.0,
+      "min": 65572.0,
+      "max": 73626.0,
+      "sd": 3344.431715553481
+    },
+    "diversity_at_generation": {
+      "mean": 0.84375,
+      "median": 0.8125,
+      "min": 0.78125,
+      "max": 0.9375,
+      "sd": 0.07328774624724109
+    },
+    "target": -10,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.1,
+    "energy_at_wall_horizon": {
+      "mean": -10.6,
+      "median": -11.0,
+      "min": -11.0,
+      "max": -10.0,
+      "sd": 0.5477225575051662
+    },
+    "first_target_calls_successes": [
+      593,
+      7538,
+      4458,
+      1003,
+      4568
+    ],
+    "first_target_seconds_successes": [
+      0.0031421250000001066,
+      0.047492457999998905,
+      0.02841733400000024,
+      0.0051185420000017245,
+      0.028827208999999243
+    ]
+  },
+  {
+    "sequence": "s48_02",
+    "n": 48,
+    "method": "darwin",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -25.2,
+      "median": -24.0,
+      "min": -28.0,
+      "max": -24.0,
+      "sd": 1.7888543819998317
+    },
+    "energy_at_generation": {
+      "mean": -19.4,
+      "median": -20.0,
+      "min": -22.0,
+      "max": -16.0,
+      "sd": 2.1908902300206643
+    },
+    "seconds_at_budget": {
+      "mean": 4.2916932916,
+      "median": 4.281820042000003,
+      "min": 4.087620207999997,
+      "max": 4.483442916000001,
+      "sd": 0.15039741889136382
+    },
+    "seconds_at_generation": {
+      "mean": 0.24371684159999915,
+      "median": 0.2427419999999998,
+      "min": 0.23694424999999697,
+      "max": 0.2529954580000009,
+      "sd": 0.006050653273705222
+    },
+    "calls_at_generation": {
+      "mean": 1832.0,
+      "median": 1832.0,
+      "min": 1832.0,
+      "max": 1832.0,
+      "sd": 0.0
+    },
+    "diversity_at_generation": {
+      "mean": 0.93125,
+      "median": 0.9375,
+      "min": 0.84375,
+      "max": 1.0,
+      "sd": 0.06011057519272295
+    },
+    "target": -20,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -21.6,
+      "median": -21.0,
+      "min": -25.0,
+      "max": -18.0,
+      "sd": 2.6076809620810595
+    },
+    "first_target_calls_successes": [
+      1980,
+      10778,
+      1538,
+      1742,
+      727
+    ],
+    "first_target_seconds_successes": [
+      0.25859145799999794,
+      1.4487703749999987,
+      0.20460616699999434,
+      0.23965762499999954,
+      0.0932167499999963
+    ]
+  },
+  {
+    "sequence": "s48_02",
+    "n": 48,
+    "method": "baldwin",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -16.0,
+      "median": -17.0,
+      "min": -18.0,
+      "max": -14.0,
+      "sd": 1.8708286933869707
+    },
+    "energy_at_generation": {
+      "mean": -23.2,
+      "median": -23.0,
+      "min": -25.0,
+      "max": -22.0,
+      "sd": 1.0954451150103324
+    },
+    "seconds_at_budget": {
+      "mean": 0.17234533340000055,
+      "median": 0.17420291700000234,
+      "min": 0.16247650000000036,
+      "max": 0.17896312500000278,
+      "sd": 0.006166568689654373
+    },
+    "seconds_at_generation": {
+      "mean": 2.6293504916000003,
+      "median": 2.5407893329999993,
+      "min": 2.4038494999999998,
+      "max": 3.037412875000001,
+      "sd": 0.24589239849240155
+    },
+    "calls_at_generation": {
+      "mean": 449422.8,
+      "median": 432398.0,
+      "min": 392234.0,
+      "max": 529408.0,
+      "sd": 52505.62181995372
+    },
+    "diversity_at_generation": {
+      "mean": 0.76875,
+      "median": 0.75,
+      "min": 0.59375,
+      "max": 1.0,
+      "sd": 0.15245388647063085
+    },
+    "target": -20,
+    "hit_count_at_budget": 0,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -18.4,
+      "median": -19.0,
+      "min": -20.0,
+      "max": -16.0,
+      "sd": 1.816590212458495
+    },
+    "first_target_calls_successes": [],
+    "first_target_seconds_successes": []
+  },
+  {
+    "sequence": "s48_02",
+    "n": 48,
+    "method": "lamarck",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -19.2,
+      "median": -19.0,
+      "min": -21.0,
+      "max": -17.0,
+      "sd": 1.4832396974191324
+    },
+    "energy_at_generation": {
+      "mean": -22.8,
+      "median": -22.0,
+      "min": -25.0,
+      "max": -21.0,
+      "sd": 1.6431676725154984
+    },
+    "seconds_at_budget": {
+      "mean": 0.21686316680000034,
+      "median": 0.21728149999999857,
+      "min": 0.2094929169999986,
+      "max": 0.22473450000000383,
+      "sd": 0.006589615966849426
+    },
+    "seconds_at_generation": {
+      "mean": 0.9693486082000013,
+      "median": 1.0066573750000032,
+      "min": 0.8922762910000017,
+      "max": 1.0252029159999978,
+      "sd": 0.06690790818915693
+    },
+    "calls_at_generation": {
+      "mean": 121913.0,
+      "median": 123079.0,
+      "min": 113741.0,
+      "max": 133312.0,
+      "sd": 8309.044259119095
+    },
+    "diversity_at_generation": {
+      "mean": 0.925,
+      "median": 0.90625,
+      "min": 0.875,
+      "max": 1.0,
+      "sd": 0.056768444139327974
+    },
+    "target": -20,
+    "hit_count_at_budget": 2,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -22.4,
+      "median": -22.0,
+      "min": -24.0,
+      "max": -21.0,
+      "sd": 1.140175425099138
+    },
+    "first_target_calls_successes": [
+      12847,
+      18330
+    ],
+    "first_target_seconds_successes": [
+      0.08350170800000001,
+      0.12103766700000307
+    ]
+  },
+  {
+    "sequence": "s48_03",
+    "n": 48,
+    "method": "darwin",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -22.6,
+      "median": -21.0,
+      "min": -28.0,
+      "max": -20.0,
+      "sd": 3.209361307176242
+    },
+    "energy_at_generation": {
+      "mean": -20.2,
+      "median": -20.0,
+      "min": -23.0,
+      "max": -18.0,
+      "sd": 1.9235384061671346
+    },
+    "seconds_at_budget": {
+      "mean": 4.225709925000002,
+      "median": 4.233368291999994,
+      "min": 4.1629099170000075,
+      "max": 4.266905875000006,
+      "sd": 0.04219486782618843
+    },
+    "seconds_at_generation": {
+      "mean": 0.2480012666000036,
+      "median": 0.24898283299999946,
+      "min": 0.2423110420000114,
+      "max": 0.25537041699999463,
+      "sd": 0.005389152988170576
+    },
+    "calls_at_generation": {
+      "mean": 1832.0,
+      "median": 1832.0,
+      "min": 1832.0,
+      "max": 1832.0,
+      "sd": 0.0
+    },
+    "diversity_at_generation": {
+      "mean": 0.875,
+      "median": 0.90625,
+      "min": 0.78125,
+      "max": 0.9375,
+      "sd": 0.07328774624724109
+    },
+    "target": -20,
+    "hit_count_at_budget": 5,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -20.8,
+      "median": -21.0,
+      "min": -23.0,
+      "max": -19.0,
+      "sd": 1.4832396974191326
+    },
+    "first_target_calls_successes": [
+      1609,
+      938,
+      784,
+      2325,
+      7746
+    ],
+    "first_target_seconds_successes": [
+      0.21264200000000244,
+      0.12406037499999911,
+      0.09938912500000185,
+      0.32915362499998935,
+      1.073303750000008
+    ]
+  },
+  {
+    "sequence": "s48_03",
+    "n": 48,
+    "method": "baldwin",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -15.8,
+      "median": -16.0,
+      "min": -17.0,
+      "max": -15.0,
+      "sd": 0.8366600265340756
+    },
+    "energy_at_generation": {
+      "mean": -21.8,
+      "median": -22.0,
+      "min": -24.0,
+      "max": -20.0,
+      "sd": 1.7888543819998317
+    },
+    "seconds_at_budget": {
+      "mean": 0.16150359180000465,
+      "median": 0.15958175000000097,
+      "min": 0.15945779200001198,
+      "max": 0.1652900420000094,
+      "sd": 0.002761268019387604
+    },
+    "seconds_at_generation": {
+      "mean": 2.2002098670000008,
+      "median": 2.1060868339999956,
+      "min": 1.8137294170000047,
+      "max": 2.9675009580000022,
+      "sd": 0.4454158179423797
+    },
+    "calls_at_generation": {
+      "mean": 398500.8,
+      "median": 379333.0,
+      "min": 311919.0,
+      "max": 547034.0,
+      "sd": 87891.95343829831
+    },
+    "diversity_at_generation": {
+      "mean": 0.79375,
+      "median": 0.8125,
+      "min": 0.71875,
+      "max": 0.84375,
+      "sd": 0.04739297152532219
+    },
+    "target": -20,
+    "hit_count_at_budget": 0,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -18.8,
+      "median": -19.0,
+      "min": -21.0,
+      "max": -17.0,
+      "sd": 1.4832396974191326
+    },
+    "first_target_calls_successes": [],
+    "first_target_seconds_successes": []
+  },
+  {
+    "sequence": "s48_03",
+    "n": 48,
+    "method": "lamarck",
+    "seeds": 5,
+    "reference_energy": -34,
+    "energy_at_budget": {
+      "mean": -20.8,
+      "median": -21.0,
+      "min": -22.0,
+      "max": -19.0,
+      "sd": 1.3038404810405297
+    },
+    "energy_at_generation": {
+      "mean": -24.4,
+      "median": -25.0,
+      "min": -26.0,
+      "max": -23.0,
+      "sd": 1.3416407864998738
+    },
+    "seconds_at_budget": {
+      "mean": 0.21353315019999855,
+      "median": 0.2129747079999902,
+      "min": 0.20837795900000344,
+      "max": 0.2225429169999984,
+      "sd": 0.005614544276851938
+    },
+    "seconds_at_generation": {
+      "mean": 0.8401257333999979,
+      "median": 0.8356021249999941,
+      "min": 0.7867224999999962,
+      "max": 0.925945334000005,
+      "sd": 0.052172820474207626
+    },
+    "calls_at_generation": {
+      "mean": 109068.4,
+      "median": 106172.0,
+      "min": 100494.0,
+      "max": 123711.0,
+      "sd": 8952.775899127599
+    },
+    "diversity_at_generation": {
+      "mean": 0.9375,
+      "median": 0.9375,
+      "min": 0.90625,
+      "max": 0.96875,
+      "sd": 0.03125
+    },
+    "target": -20,
+    "hit_count_at_budget": 4,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -23.2,
+      "median": -23.0,
+      "min": -26.0,
+      "max": -21.0,
+      "sd": 1.7888543819998317
+    },
+    "first_target_calls_successes": [
+      24605,
+      23213,
+      16953,
+      25860
+    ],
+    "first_target_seconds_successes": [
+      0.16779562499999656,
+      0.1605755829999964,
+      0.11617433299998936,
+      0.17706387500000176
+    ]
+  },
+  {
+    "sequence": "s48_04",
+    "n": 48,
+    "method": "darwin",
+    "seeds": 5,
+    "reference_energy": -33,
+    "energy_at_budget": {
+      "mean": -19.6,
+      "median": -19.0,
+      "min": -24.0,
+      "max": -17.0,
+      "sd": 2.701851217221259
+    },
+    "energy_at_generation": {
+      "mean": -17.4,
+      "median": -17.0,
+      "min": -22.0,
+      "max": -14.0,
+      "sd": 3.2093613071762426
+    },
+    "seconds_at_budget": {
+      "mean": 4.346896067,
+      "median": 4.389631417000004,
+      "min": 4.1273977919999965,
+      "max": 4.532227249999991,
+      "sd": 0.1644843282956592
+    },
+    "seconds_at_generation": {
+      "mean": 0.26165642520000176,
+      "median": 0.26074345899999685,
+      "min": 0.256172332999995,
+      "max": 0.26556341700000985,
+      "sd": 0.0038824830366801753
+    },
+    "calls_at_generation": {
+      "mean": 1832.0,
+      "median": 1832.0,
+      "min": 1832.0,
+      "max": 1832.0,
+      "sd": 0.0
+    },
+    "diversity_at_generation": {
+      "mean": 0.85625,
+      "median": 0.84375,
+      "min": 0.78125,
+      "max": 0.90625,
+      "sd": 0.05229125165837972
+    },
+    "target": -20,
+    "hit_count_at_budget": 2,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -18.6,
+      "median": -18.0,
+      "min": -22.0,
+      "max": -16.0,
+      "sd": 2.4083189157584592
+    },
+    "first_target_calls_successes": [
+      2824,
+      671
+    ],
+    "first_target_seconds_successes": [
+      0.40494937500000106,
+      0.09252308300000323
+    ]
+  },
+  {
+    "sequence": "s48_04",
+    "n": 48,
+    "method": "baldwin",
+    "seeds": 5,
+    "reference_energy": -33,
+    "energy_at_budget": {
+      "mean": -15.6,
+      "median": -15.0,
+      "min": -17.0,
+      "max": -14.0,
+      "sd": 1.3416407864998738
+    },
+    "energy_at_generation": {
+      "mean": -22.8,
+      "median": -23.0,
+      "min": -25.0,
+      "max": -21.0,
+      "sd": 1.7888543819998317
+    },
+    "seconds_at_budget": {
+      "mean": 0.171884391399999,
+      "median": 0.16669650000000047,
+      "min": 0.15470520800000997,
+      "max": 0.20829533299999525,
+      "sd": 0.02095350399722176
+    },
+    "seconds_at_generation": {
+      "mean": 2.1057632250000013,
+      "median": 1.8929994169999986,
+      "min": 1.5620218749999992,
+      "max": 3.0344899159999983,
+      "sd": 0.5634001365359036
+    },
+    "calls_at_generation": {
+      "mean": 351999.4,
+      "median": 329265.0,
+      "min": 287491.0,
+      "max": 413370.0,
+      "sd": 54603.67120716335
+    },
+    "diversity_at_generation": {
+      "mean": 0.83125,
+      "median": 0.875,
+      "min": 0.71875,
+      "max": 0.9375,
+      "sd": 0.10504835196232257
+    },
+    "target": -20,
+    "hit_count_at_budget": 0,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -18.8,
+      "median": -19.0,
+      "min": -21.0,
+      "max": -17.0,
+      "sd": 1.7888543819998317
+    },
+    "first_target_calls_successes": [],
+    "first_target_seconds_successes": []
+  },
+  {
+    "sequence": "s48_04",
+    "n": 48,
+    "method": "lamarck",
+    "seeds": 5,
+    "reference_energy": -33,
+    "energy_at_budget": {
+      "mean": -19.4,
+      "median": -20.0,
+      "min": -20.0,
+      "max": -18.0,
+      "sd": 0.8944271909999159
+    },
+    "energy_at_generation": {
+      "mean": -22.2,
+      "median": -23.0,
+      "min": -24.0,
+      "max": -19.0,
+      "sd": 2.16794833886788
+    },
+    "seconds_at_budget": {
+      "mean": 0.22307522500000515,
+      "median": 0.2151957080000102,
+      "min": 0.20053016599999296,
+      "max": 0.2599933340000007,
+      "sd": 0.02396589699403921
+    },
+    "seconds_at_generation": {
+      "mean": 0.8607902664000051,
+      "median": 0.8464459159999933,
+      "min": 0.8241473329999991,
+      "max": 0.912628500000011,
+      "sd": 0.039561267314497786
+    },
+    "calls_at_generation": {
+      "mean": 110244.4,
+      "median": 110819.0,
+      "min": 106338.0,
+      "max": 113851.0,
+      "sd": 3303.0171510302516
+    },
+    "diversity_at_generation": {
+      "mean": 0.85625,
+      "median": 0.84375,
+      "min": 0.78125,
+      "max": 0.96875,
+      "sd": 0.07194290270763337
+    },
+    "target": -20,
+    "hit_count_at_budget": 3,
+    "wall_horizon_seconds": 0.5,
+    "energy_at_wall_horizon": {
+      "mean": -22.0,
+      "median": -22.0,
+      "min": -24.0,
+      "max": -19.0,
+      "sd": 2.1213203435596424
+    },
+    "first_target_calls_successes": [
+      27677,
+      28555,
+      15539
+    ],
+    "first_target_seconds_successes": [
+      0.1870928750000047,
+      0.24789191700000401,
+      0.11144341700000382
+    ]
+  }
+]

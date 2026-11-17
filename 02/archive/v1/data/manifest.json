@@ -1,0 +1,7 @@
+{
+  "items": 36,
+  "sha256": "6c54957ca5ec9ba292f3bf105fe7ca029f58979330680389abf150be6878dff4",
+  "created": "2026-11-17",
+  "design": "original paired interventions + uncertainty controls",
+  "note": "No human comparison group; model generating items is same family as respondents."
+}

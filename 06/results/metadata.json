@@ -1,0 +1,21 @@
+{
+  "python": "3.9.6 (default, Apr 30 2025, 02:07:17) \n[Clang 17.0.0 (clang-1700.0.13.5)]",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "numpy": "2.0.2",
+  "pillow": "11.3.0",
+  "matplotlib": "3.9.4",
+  "evaluations_per_run": 12000,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "size": 64,
+  "train_noise_sigma_255": 22,
+  "train_noise_seed": 20261117,
+  "test_noise_seed": 918211,
+  "run_count": 205,
+  "notes": "Runtime is wall time under concurrent experiments; all test references remain outside evolve()."
+}

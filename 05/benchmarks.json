@@ -1,0 +1,18 @@
+{
+  "source": "https://www.iba.t.u-tokyo.ac.jp/iba/AI/report.html",
+  "accessed": "2026-11-17",
+  "sequences": [
+    {"name": "toy10", "expression": "H2P2H2P2H2", "reference_energy": null, "kind": "author-created easy control"},
+    {"name": "toy20", "expression": "(H2P2)4H4", "reference_energy": null, "kind": "author-created longer control"},
+    {"name": "s48_01", "expression": "HPH2P2H4PH3P2H2P2HPH2PHPH2P2H2P3HP8H2", "reference_energy": -32, "length_warning": "Source labels 48, verbatim expansion has 47; excluded from experiment."},
+    {"name": "s48_02", "expression": "H4PH2PH5P2HP2H2P2HP6HP2HP3HP2H2P2H3PH", "reference_energy": -34},
+    {"name": "s48_03", "expression": "PHPH2PH6P2HPHP2HPH2(PH)2P3H(P2H2)2P2HPHP2HP", "reference_energy": -34},
+    {"name": "s48_04", "expression": "PHPH2P2HPH3P2H2PH2P3H5P2HPH2(PH)2P4HP2(HP)2", "reference_energy": -33},
+    {"name": "s48_05", "expression": "P2HP3HPH4P2H4PH2PH3P2(HP)2HP2HP6H2PH2PH", "reference_energy": -32},
+    {"name": "s48_06", "expression": "H3P3H2PH(PH2)3PHP7HPHP2HP3HP2H6PH", "reference_energy": -32},
+    {"name": "s48_07", "expression": "PHP4HPH3PHPH4PH2PH2P3HPHP3H3(P2H2)2P3H", "reference_energy": -32},
+    {"name": "s48_08", "expression": "PH2PH3PH4P2H3P6HPH2P2H2PHP3H2(PH)2PH2P3", "reference_energy": -31},
+    {"name": "s48_09", "expression": "(PH)2P4(HP)2HP2HPH6P2H3PHP2HPH2P2HPH3P4H", "reference_energy": -34},
+    {"name": "s48_10", "expression": "PH2P6H2P3H3PHP2HPH2(P2H)2P2H2P2H7P2H", "reference_energy": -33, "length_warning": "Source labels 48, verbatim expansion has 47; excluded from experiment."}
+  ]
+}

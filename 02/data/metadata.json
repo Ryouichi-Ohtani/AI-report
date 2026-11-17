@@ -1,0 +1,278 @@
+{
+  "67a70103830a3e48": {
+    "logical_id": "belief0-0",
+    "group": "belief0",
+    "family": "belief",
+    "seen": 0
+  },
+  "36823849f665b913": {
+    "logical_id": "belief0-1",
+    "group": "belief0",
+    "family": "belief",
+    "seen": 1
+  },
+  "0051160625bdeacd": {
+    "logical_id": "belief1-0",
+    "group": "belief1",
+    "family": "belief",
+    "seen": 0
+  },
+  "16a9f4dededca80c": {
+    "logical_id": "belief1-1",
+    "group": "belief1",
+    "family": "belief",
+    "seen": 1
+  },
+  "d2e955c2cd852852": {
+    "logical_id": "belief2-0",
+    "group": "belief2",
+    "family": "belief",
+    "seen": 0
+  },
+  "65b695d7ae834556": {
+    "logical_id": "belief2-1",
+    "group": "belief2",
+    "family": "belief",
+    "seen": 1
+  },
+  "f23e379cddfbaee0": {
+    "logical_id": "belief3-0",
+    "group": "belief3",
+    "family": "belief",
+    "seen": 0
+  },
+  "4166da2fc572c564": {
+    "logical_id": "belief3-1",
+    "group": "belief3",
+    "family": "belief",
+    "seen": 1
+  },
+  "4e8470f9f27dbb28": {
+    "logical_id": "second0-0-0",
+    "group": "second0-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 0
+  },
+  "f135c2c3f87c416b": {
+    "logical_id": "second0-0-1",
+    "group": "second0-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 1
+  },
+  "bfc0de92ebdaa08d": {
+    "logical_id": "second0-1-0",
+    "group": "second0-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 0
+  },
+  "b4fe07de941ee626": {
+    "logical_id": "second0-1-1",
+    "group": "second0-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 1
+  },
+  "f09678f29f9e6b21": {
+    "logical_id": "second1-0-0",
+    "group": "second1-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 0
+  },
+  "9ec13bc6f64bde3d": {
+    "logical_id": "second1-0-1",
+    "group": "second1-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 1
+  },
+  "b4d0b03797421430": {
+    "logical_id": "second1-1-0",
+    "group": "second1-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 0
+  },
+  "d80645ef0402f0b2": {
+    "logical_id": "second1-1-1",
+    "group": "second1-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 1
+  },
+  "26fc5ff2ecddf38c": {
+    "logical_id": "second2-0-0",
+    "group": "second2-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 0
+  },
+  "8f0db33363ad06e3": {
+    "logical_id": "second2-0-1",
+    "group": "second2-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 1
+  },
+  "8edd8db6b0217773": {
+    "logical_id": "second2-1-0",
+    "group": "second2-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 0
+  },
+  "6c96311ec96faf91": {
+    "logical_id": "second2-1-1",
+    "group": "second2-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 1
+  },
+  "162ad492b1919961": {
+    "logical_id": "second3-0-0",
+    "group": "second3-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 0
+  },
+  "6773ea567273299b": {
+    "logical_id": "second3-0-1",
+    "group": "second3-actual0",
+    "family": "second_order",
+    "actual_seen": 0,
+    "believed_seen": 1
+  },
+  "beb20dc07cac4bf7": {
+    "logical_id": "second3-1-0",
+    "group": "second3-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 0
+  },
+  "be2b3b0817554b9d": {
+    "logical_id": "second3-1-1",
+    "group": "second3-actual1",
+    "family": "second_order",
+    "actual_seen": 1,
+    "believed_seen": 1
+  },
+  "3b9edc589a191041": {
+    "logical_id": "irony0-0",
+    "group": "irony0",
+    "family": "irony",
+    "success": 0
+  },
+  "07b99d06f47d2275": {
+    "logical_id": "irony0-1",
+    "group": "irony0",
+    "family": "irony",
+    "success": 1
+  },
+  "c1728461917f9034": {
+    "logical_id": "irony1-0",
+    "group": "irony1",
+    "family": "irony",
+    "success": 0
+  },
+  "cbc0b8e49df248c4": {
+    "logical_id": "irony1-1",
+    "group": "irony1",
+    "family": "irony",
+    "success": 1
+  },
+  "d0b9ab1d2b080ea3": {
+    "logical_id": "irony2-0",
+    "group": "irony2",
+    "family": "irony",
+    "success": 0
+  },
+  "ce2b53de69f930be": {
+    "logical_id": "irony2-1",
+    "group": "irony2",
+    "family": "irony",
+    "success": 1
+  },
+  "24e056064674cddf": {
+    "logical_id": "irony3-0",
+    "group": "irony3",
+    "family": "irony",
+    "success": 0
+  },
+  "71bead5e681b44fd": {
+    "logical_id": "irony3-1",
+    "group": "irony3",
+    "family": "irony",
+    "success": 1
+  },
+  "b12a3b05def1414c": {
+    "logical_id": "faux0-0",
+    "group": "faux0",
+    "family": "faux_pas",
+    "known": 0
+  },
+  "2662483e058be7d9": {
+    "logical_id": "faux0-1",
+    "group": "faux0",
+    "family": "faux_pas",
+    "known": 1
+  },
+  "b45d0044f06297b3": {
+    "logical_id": "faux1-0",
+    "group": "faux1",
+    "family": "faux_pas",
+    "known": 0
+  },
+  "f903889ddb6fa4f8": {
+    "logical_id": "faux1-1",
+    "group": "faux1",
+    "family": "faux_pas",
+    "known": 1
+  },
+  "94940dd9e15d81ea": {
+    "logical_id": "faux2-0",
+    "group": "faux2",
+    "family": "faux_pas",
+    "known": 0
+  },
+  "50d02a21f94d72e1": {
+    "logical_id": "faux2-1",
+    "group": "faux2",
+    "family": "faux_pas",
+    "known": 1
+  },
+  "26d78443d93bfb07": {
+    "logical_id": "faux3-0",
+    "group": "faux3",
+    "family": "faux_pas",
+    "known": 0
+  },
+  "237e72a793b9531b": {
+    "logical_id": "faux3-1",
+    "group": "faux3",
+    "family": "faux_pas",
+    "known": 1
+  },
+  "54b2283569e1e115": {
+    "logical_id": "unknown0",
+    "group": "unknown0",
+    "family": "underdetermined"
+  },
+  "2c4e7af20b6b7eb7": {
+    "logical_id": "unknown1",
+    "group": "unknown1",
+    "family": "underdetermined"
+  },
+  "56f994cdc306ba86": {
+    "logical_id": "unknown2",
+    "group": "unknown2",
+    "family": "underdetermined"
+  },
+  "cfccce31e00044c7": {
+    "logical_id": "unknown3",
+    "group": "unknown3",
+    "family": "underdetermined"
+  }
+}

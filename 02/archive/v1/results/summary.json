@@ -1,0 +1,223 @@
+{
+  "trials": {
+    "trial1": {
+      "correct": 36,
+      "total": 36,
+      "families": {
+        "belief": {
+          "correct": 8,
+          "total": 8
+        },
+        "second_order": {
+          "correct": 8,
+          "total": 8
+        },
+        "irony": {
+          "correct": 8,
+          "total": 8
+        },
+        "faux_pas": {
+          "correct": 8,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 16,
+      "strict_pairs_total": 16,
+      "correct_by_id": {
+        "belief0-0": true,
+        "belief0-1": true,
+        "belief1-0": true,
+        "belief1-1": true,
+        "belief2-0": true,
+        "belief2-1": true,
+        "belief3-0": true,
+        "belief3-1": true,
+        "second0-0": true,
+        "second0-1": true,
+        "second1-0": true,
+        "second1-1": true,
+        "second2-0": true,
+        "second2-1": true,
+        "second3-0": true,
+        "second3-1": true,
+        "irony0-0": true,
+        "irony0-1": true,
+        "irony1-0": true,
+        "irony1-1": true,
+        "irony2-0": true,
+        "irony2-1": true,
+        "irony3-0": true,
+        "irony3-1": true,
+        "faux0-0": true,
+        "faux0-1": true,
+        "faux1-0": true,
+        "faux1-1": true,
+        "faux2-0": true,
+        "faux2-1": true,
+        "faux3-0": true,
+        "faux3-1": true,
+        "unknown0-0": true,
+        "unknown1-0": true,
+        "unknown2-0": true,
+        "unknown3-0": true
+      }
+    },
+    "trial2": {
+      "correct": 36,
+      "total": 36,
+      "families": {
+        "belief": {
+          "correct": 8,
+          "total": 8
+        },
+        "second_order": {
+          "correct": 8,
+          "total": 8
+        },
+        "irony": {
+          "correct": 8,
+          "total": 8
+        },
+        "faux_pas": {
+          "correct": 8,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 16,
+      "strict_pairs_total": 16,
+      "correct_by_id": {
+        "belief0-0": true,
+        "belief0-1": true,
+        "belief1-0": true,
+        "belief1-1": true,
+        "belief2-0": true,
+        "belief2-1": true,
+        "belief3-0": true,
+        "belief3-1": true,
+        "second0-0": true,
+        "second0-1": true,
+        "second1-0": true,
+        "second1-1": true,
+        "second2-0": true,
+        "second2-1": true,
+        "second3-0": true,
+        "second3-1": true,
+        "irony0-0": true,
+        "irony0-1": true,
+        "irony1-0": true,
+        "irony1-1": true,
+        "irony2-0": true,
+        "irony2-1": true,
+        "irony3-0": true,
+        "irony3-1": true,
+        "faux0-0": true,
+        "faux0-1": true,
+        "faux1-0": true,
+        "faux1-1": true,
+        "faux2-0": true,
+        "faux2-1": true,
+        "faux3-0": true,
+        "faux3-1": true,
+        "unknown0-0": true,
+        "unknown1-0": true,
+        "unknown2-0": true,
+        "unknown3-0": true
+      }
+    },
+    "always_A": {
+      "correct": 12,
+      "total": 36,
+      "families": {
+        "belief": {
+          "correct": 3,
+          "total": 8
+        },
+        "second_order": {
+          "correct": 2,
+          "total": 8
+        },
+        "irony": {
+          "correct": 3,
+          "total": 8
+        },
+        "faux_pas": {
+          "correct": 3,
+          "total": 8
+        },
+        "underdetermined": {
+          "correct": 1,
+          "total": 4
+        }
+      },
+      "strict_pairs_correct": 0,
+      "strict_pairs_total": 16,
+      "correct_by_id": {
+        "belief0-0": true,
+        "belief0-1": false,
+        "belief1-0": false,
+        "belief1-1": false,
+        "belief2-0": false,
+        "belief2-1": true,
+        "belief3-0": true,
+        "belief3-1": false,
+        "second0-0": false,
+        "second0-1": false,
+        "second1-0": false,
+        "second1-1": true,
+        "second2-0": true,
+        "second2-1": false,
+        "second3-0": false,
+        "second3-1": false,
+        "irony0-0": false,
+        "irony0-1": true,
+        "irony1-0": true,
+        "irony1-1": false,
+        "irony2-0": false,
+        "irony2-1": false,
+        "irony3-0": false,
+        "irony3-1": true,
+        "faux0-0": true,
+        "faux0-1": false,
+        "faux1-0": false,
+        "faux1-1": false,
+        "faux2-0": false,
+        "faux2-1": true,
+        "faux3-0": true,
+        "faux3-1": false,
+        "unknown0-0": false,
+        "unknown1-0": false,
+        "unknown2-0": true,
+        "unknown3-0": false
+      }
+    }
+  },
+  "reality_baseline": {
+    "correct": 8,
+    "total": 16
+  },
+  "between_context_agreement": 36,
+  "agreement_total": 36,
+  "model_metadata": {
+    "trial1": {
+      "model": "gpt-6.1-sol",
+      "date": "2026-11-17",
+      "context": "fresh subagent, no keys, 36 items in one batch",
+      "temperature": "not exposed"
+    },
+    "trial2": {
+      "model": "gpt-6.1-sol",
+      "date": "2026-11-17",
+      "context": "fresh subagent, prompts only, 36-item batch",
+      "temperature": "not exposed"
+    }
+  },
+  "sampling_note": "36 authored items, not a random sample; paired items and contexts are not independent subjects."
+}

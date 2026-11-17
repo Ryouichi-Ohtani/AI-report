@@ -1,0 +1,30 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{report-support}[2026/11/17 Offline XeTeX figure and link support]
+\RequirePackage{keyval}
+% Scalable cached CM faces also cover script sizes in offline installations.
+\DeclareFontShape{OML}{cmm}{m}{it}{<->cmmi10}{}
+\DeclareFontShape{OMS}{cmsy}{m}{n}{<->cmsy10}{}
+\DeclareFontShape{OT1}{cmr}{m}{n}{<->cmr10}{}
+\IfFileExists{report-cmex.pfb}{\AtBeginDocument{\special{pdf:mapline cmex10 ReportCMEXFallback <report-cmex.pfb}}}{}
+% These small fallbacks avoid a network dependency when Tectonic is offline.
+% XeTeX writes PDF links through xdvipdfmx; no external commands are executed.
+\newcommand{\href}[2]{\special{pdf:bann << /Type /Annot /Subtype /Link /Border [0 0 0] /A << /S /URI /URI (#1) >> >>}#2\special{pdf:eann}}
+\def\RSurlchars#1{\ifx#1\RSstop\else#1\discretionary{}{}{}\expandafter\RSurlchars\fi}
+\newcommand{\url}[1]{\begingroup\footnotesize\href{#1}{\ttfamily\expandafter\RSurlchars\detokenize\expandafter{#1}\RSstop}\endgroup}
+\newdimen\RSwidth
+\define@key{RSgraphics}{width}{\RSwidth=#1}
+\newcommand{\includegraphics}[2][]{\begingroup\RSwidth=\linewidth\setkeys{RSgraphics}{#1}\leavevmode\XeTeXpdffile "#2" width \RSwidth\endgroup}
+\newcommand{\text}[1]{\mbox{#1}}
+\newcommand{\operatorname}[1]{\mathop{\mathrm{#1}}}
+\newcommand{\mathbb}[1]{\mathbf{#1}}
+\newcommand{\boldsymbol}[1]{\mathbf{#1}}
+\newcommand{\dfrac}[2]{\displaystyle\frac{#1}{#2}}
+\newcommand{\binom}[2]{\left({#1\atop#2}\right)}
+\newcommand{\lVert}{\Vert}
+\newcommand{\rVert}{\Vert}
+\newcommand{\eqref}[1]{(\ref{#1})}
+\newcommand{\texorpdfstring}[2]{#1}
+\let\cases\relax
+\newenvironment{cases}{\left\{\begin{array}{ll}}{\end{array}\right.}
+\newenvironment{split}{\begin{array}{rl}}{\end{array}}
+\newenvironment{align}{\[\begin{array}{rl}}{\end{array}\]}
